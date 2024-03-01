@@ -32,8 +32,8 @@ The WAFER-RK3588 BSP includes Linux kernel up to 5.10, Ubuntu/Android SDK and U-
 | Camera | MIPI-CSI FFC |
 | Audio | DMIC/Speaker/headset pin header |
 | Network | 1x Gigabit Ethernet / RGMII <br /> 1x 2.5Gb Ethernet <br /> WiFi module connector |
-| PCIE | 1 x standard PCIe 3.0 <br /> 1 x M.2 2230/2280 B/M key |
-| USB | 2x USB 3.0 host <br /> 1 x USB type-C  |
+| PCIE | 1 x standard PCIe 3.0 <br /> 1x M.2 2230/2280 B/M key |
+| USB | 1x USB 3.0 host <br /> 1x USB type-C <br /> 2x USB 2.0 host <br /> 2x USB 2.0 pin-header |
 | UART | 2x RS232 pin-header |
 | General I/O | power key pin-header |
 | Debug | Special 2-wire connector |
@@ -48,6 +48,7 @@ The WAFER-RK3588 BSP includes Linux kernel up to 5.10, Ubuntu/Android SDK and U-
 | :----------------------------------------------------------: | :----------------------------------------------------------- |
 | MIPI-DSI panel | TQ101AJ02 10.1" touch panel with 1280x800 resolution |
 | MIPI-CSI camera | Omnivision OV5640 |
+| PCI network card| Intel 82574L <br /> Realtek 8111E <br /> |
 | WiFi/Bluetooth module | Broadcom AP6275SDSR WiFi6/BT5 Pre-certified <br /> Broadcom AP6275S WiFi6/BT5 |
 <br>
 
