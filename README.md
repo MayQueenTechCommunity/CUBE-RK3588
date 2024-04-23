@@ -54,7 +54,7 @@ The CUBE-RK3588 BSP includes Linux kernel up to 5.10, Ubuntu/Android SDK and U-B
 
 #### Price and Availability
 CUBE-RK3588 is now available through direct sales (www.mayqueentech.com).
-CUBE-RK3588 is offered in a variety of configurations starting from $269 for 1pc order.
+CUBE-RK3588 is offered in a variety of configurations starting from $389 for 1pc order.
 Detailed ordering and pricing information is available on sales contact window.
 <br>
 
