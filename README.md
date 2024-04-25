@@ -47,7 +47,7 @@ The CUBE-RK3588 BSP includes Linux kernel up to 5.10, Ubuntu/Android SDK and U-B
 <br>
 
 #### Unbox Video
-
+[![CUBE-RK3588 unboxing!](https://res.cloudinary.com/marcomontalbano/image/upload/v1714063512/video_to_markdown/images/youtube--P9mK7s0tRIQ-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=P9mK7s0tRIQ "CUBE-RK3588 unboxing!")
 <br>
 
 #### Price and Availability
