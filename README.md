@@ -17,7 +17,7 @@ The CUBE-RK3588 BSP includes Linux kernel up to 5.10, Ubuntu/Android SDK and U-B
 #### Overview
 |                         Powerful AIOT Computing                         | Description                                                  |                       BSP support                       |                       Instruction                        |
 | :----------------------------------------------------------: | :----------------------------------------------------------- | :---------------------------------------------------------: | :----------------------------------------------------------: |
-|<img src="https://github.com/MayQueenTechCommunity/CUBE-RK3588/assets/37318315/ea22c298-6366-46c7-bc72-98b9a7d1cf50" width="200"/> | **CUBE-RK3588** <br /> 3.5" Short Size Board with Rockchip RK3588 <br/> Datasheet(Coming soon) | Ubuntu LTS <br /> Android | Ubuntu Zone <br /> Android Zone <br /> |
+|<img src="https://github.com/MayQueenTechCommunity/CUBE-RK3588/assets/37318315/ea22c298-6366-46c7-bc72-98b9a7d1cf50" width="200"/> | **CUBE-RK3588** <br /> 3.5" Short Size Board with Rockchip RK3588 <br/> Datasheet(Coming soon) | Ubuntu LTS <br /> Android | Ubuntu Zone <br /> [Android Zone](https://github.com/MayQueenTechCommunity/CUBE-RK3588/wiki/Android-Zone) <br /> |
 
 
 |                         Specifications                         |                                                   |
