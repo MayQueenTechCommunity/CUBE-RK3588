@@ -21,7 +21,7 @@ The CUBE-RK3588 BSP includes Linux kernel up to 5.10, Ubuntu/Android SDK and U-B
 
 |                         Specifications                         |                                                   |
 | :----------------------------------------------------------: | :----------------------------------------------------------- |
-| CPU | **Rockchip RK3588** <br /> ARM64 Quad core Cortex A76 + Quad core Cortex A55 |
+| CPU | **Rockchip RK3588** <br /> ARM64 Quad core Cortex A76 (2.4GHz) + Quad core Cortex A55 (1.8GHz) |
 | Memory | 8GB LPDDR4 |
 | Storage | 32GB eMMC <br /> 1x SATA connector <br /> 1x M.2. 2230 A/E key NVME connector|
 | Neural Nework | 6 TOPS NPU |
