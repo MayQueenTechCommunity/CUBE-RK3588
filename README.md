@@ -35,7 +35,6 @@ The CUBE-RK3588 BSP includes Linux kernel up to 5.10, Ubuntu/Android SDK and U-B
 | Supply Voltage | 12Volt DC Jack with power switch pin-header |
 | Dimensions | 146 x 102 x1.6 (mm) |
 | Temp. range | -20C to 60C |
-<br>
 
 #### Accessories
 
@@ -43,7 +42,14 @@ The CUBE-RK3588 BSP includes Linux kernel up to 5.10, Ubuntu/Android SDK and U-B
 | :----------------------------------------------------------: | :----------------------------------------------------------- |
 | PCI network card| Intel 82574L <br /> Realtek 8111E <br /> |
 | WiFi/Bluetooth module | Broadcom AP6275SDSR WiFi6/BT5 Pre-certified <br /> Broadcom AP6275S WiFi6/BT5 |
-<br>
+
+#### BSP Status
+|LTS OS|Current Support|Status|
+|---|---|---|
+|Android | Android 14 <br> Android 13 |&#x23F3; <br> &#10004;|
+|Yocto | Scarthgap | &#x23F3; |
+|Ubuntu | Ubuntu 24.04 <br> Ubuntu 22.04 |&#x23F3; <br> &#10004;|
+|Debian | Debian 12 | &#x23F3;|
 
 #### Unbox Video
 [![CUBE-RK3588 unboxing!](https://res.cloudinary.com/marcomontalbano/image/upload/v1714063512/video_to_markdown/images/youtube--P9mK7s0tRIQ-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=P9mK7s0tRIQ "CUBE-RK3588 unboxing!")
