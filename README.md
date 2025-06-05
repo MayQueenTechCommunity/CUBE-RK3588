@@ -17,7 +17,7 @@ The CUBE-RK3588 BSP includes Linux kernel up to 5.10, Ubuntu/Android SDK and U-B
 #### Overview
 |                         Powerful AIOT Computing                         | Description                                                  |                       BSP support                       |                       Instruction                        |
 | :----------------------------------------------------------: | :----------------------------------------------------------- | :---------------------------------------------------------: | :----------------------------------------------------------: |
-|<img src="https://github.com/MayQueenTechCommunity/CUBE-RK3588/assets/37318315/ea22c298-6366-46c7-bc72-98b9a7d1cf50" width="200"/> | **CUBE-RK3588** <br /> 3.5" Short Size Board with Rockchip RK3588 <br/> Datasheet(Coming soon) | Ubuntu LTS <br /> Android | [Ubuntu Zone](https://github.com/MayQueenTechCommunity/CUBE-RK3588/wiki/Ubuntu-Zone) <br /> [Android Zone](https://github.com/MayQueenTechCommunity/CUBE-RK3588/wiki/Android-Zone) <br /> |
+|<img src="https://github.com/MayQueenTechCommunity/CUBE-RK3588/assets/37318315/ea22c298-6366-46c7-bc72-98b9a7d1cf50" width="200"/> | **CUBE-RK3588** <br /> 3.5" Short Size Board with Rockchip RK3588 <br/> [Datasheet](https://www.dropbox.com/scl/fi/3205k9dpmnnwjb1wq5d9y/CUBE-RK3588_flyer.pdf?rlkey=r91bl5qkgzz9vj7766br9pox1&st=qjywypie&dl=0) | Ubuntu LTS <br /> Android LTS <br /> Yocto LTS <br /> | [Ubuntu Zone](https://github.com/MayQueenTechCommunity/CUBE-RK3588/wiki/Ubuntu-Zone) <br /> [Android Zone](https://github.com/MayQueenTechCommunity/CUBE-RK3588/wiki/Android-Zone) <br />  [Yocto Zone](https://github.com/MayQueenTechCommunity/CUBE-RK3588/wiki/Yocto-Zone) |
 
 |                         Specifications                         |                                                   |
 | :----------------------------------------------------------: | :----------------------------------------------------------- |
@@ -46,8 +46,8 @@ The CUBE-RK3588 BSP includes Linux kernel up to 5.10, Ubuntu/Android SDK and U-B
 #### BSP Status
 |LTS OS|Current Support|Status|
 |---|---|---|
-|Android | Android 14 <br> Android 13 |&#x23F3; <br> &#10004;|
-|Yocto | Scarthgap | &#x23F3; |
+|Android | Android 14 <br> Android 13 |&#10004; <br> &#10004;|
+|Yocto | Scarthgap | &#10004; |
 |Ubuntu | Ubuntu 24.04 <br> Ubuntu 22.04 |&#x23F3; <br> &#10004;|
 |Debian | Debian 12 | &#x23F3;|
 
